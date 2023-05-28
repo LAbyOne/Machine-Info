@@ -8,5 +8,8 @@ Mac(hack) tool to provide hardware info
 <img src="media/main.png" width="418" height="273">
 
 #
+<img src="media/main2.png" width="418" height="273">
+
+#
 [Download](https://github.com/LAbyOne/Machine-Info/releases)
 
